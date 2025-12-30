@@ -15,8 +15,6 @@ name: S. Naga Tushar<br>located_in: Building scalable systems in the cloud<br>cu
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=snagatushar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=snagatushar&limit=5&theme=dark&combine_all_yearly_contributions=true)
